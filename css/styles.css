@@ -8133,7 +8133,7 @@ textarea.form-control-lg {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  background-color: #A3D8FF;
+  background-color: #E0B0FF;
 
 }
 
@@ -10933,7 +10933,7 @@ p.lead {
   justify-content: center;
   height: 3.5rem;
   width: 3.5rem;
-  background-color: #495057;
+  background-color: #E0B0FF;
   color: #fff;
   border-radius: 100%;
   font-size: 1.5rem;
